@@ -1,5 +1,7 @@
 Olá eu sou o ed 
-whatsapp 22998775287
+
+ evoluindo
+ 
 <div align="center">
   <a href="https://github.com/bruce-69">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruce-69&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,11 +18,3 @@ whatsapp 22998775287
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <div>
     
-    
-   </div>  
-
-  
-    
-  ![Snake animation](https://github.com/bruce-69/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-<div>
-  
